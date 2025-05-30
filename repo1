@@ -1,0 +1,3 @@
+phylogenetic_web_app.py         # Streamlit app file
+PhylogeneticPriorArt.py         # Your EnhancedPhylogeneticPriorArtSearch class
+requirements.txt                # Dependencies
